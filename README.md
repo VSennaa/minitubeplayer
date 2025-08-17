@@ -1,6 +1,6 @@
 # MiniTube Player
 
-Um player de YouTube leve e minimalista feito em Python e Tkinter, focado em baixo consumo de recursos e uma experiência de uso limpa.
+Um player de YouTube simples feito em Python e Tkinter, focado em baixo consumo de recursos e uma experiência de uso limpa.
 
 <img src="videoexample.png" alt="Screenshot do Aplicativo" style="zoom:50%;" />
 
