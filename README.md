@@ -83,6 +83,15 @@ Siga estes passos para rodar o projeto em seu computador:
 
 ---
 
-## Licença
+## Licenças e Agradecimentos
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+Este aplicativo utiliza as seguintes bibliotecas de terceiros:
+
+* **libvlc (VLC Media Player Engine):** O motor de reprodução de vídeo é fornecido pela biblioteca `libvlc` do projeto VideoLAN.
+    * **Licença:** GNU Lesser General Public License (LGPL) v2.1. Uma cópia da licença está incluída na pasta `LICENSES`.
+    * **Código-fonte:** O código-fonte do VLC pode ser encontrado no [site oficial do VideoLAN](https://www.videolan.org/vlc/download-sources.html).
+
+* **yt-dlp:** A busca e extração de links de vídeo é feita pela fantástica ferramenta `yt-dlp`.
+    * **Licença:** The Unlicense (Domínio Público).
