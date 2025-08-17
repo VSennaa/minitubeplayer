@@ -34,8 +34,7 @@ Antes de instalar, garanta que você tenha os seguintes programas no seu sistema
 ---
 
 ## Instalação
-
-Siga estes passos para rodar o projeto em seu computador:
+Embora haja o binário pronto para uso em releases, é possível que existem problemas ao executar. Caso isso ocorra, siga estes passos para rodar o projeto:
 
 1.  **Clone o repositório:**
     ```bash
