@@ -93,5 +93,5 @@ Este aplicativo utiliza as seguintes bibliotecas de terceiros:
     * **Licença:** GNU Lesser General Public License (LGPL) v2.1. Uma cópia da licença está incluída na pasta `LICENSES`.
     * **Código-fonte:** O código-fonte do VLC pode ser encontrado no [site oficial do VideoLAN](https://www.videolan.org/vlc/download-sources.html).
 
-* **yt-dlp:** A busca e extração de links de vídeo é feita pela fantástica ferramenta `yt-dlp`.
+* **yt-dlp:** A busca e extração de links de vídeo é feita pela ferramenta `yt-dlp`.
     * **Licença:** The Unlicense (Domínio Público).
