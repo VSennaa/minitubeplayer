@@ -1,6 +1,6 @@
 # MiniTube Player
 
-Um player de YouTube leve e minimalista feito em Python e Tkinter, focado em baixo consumo de recursos e uma experiência de uso limpa.
+Um player de YouTube simples feito em Python e Tkinter, focado em baixo consumo de recursos e uma experiência de uso limpa.
 
 <img src="videoexample.png" alt="Screenshot do Aplicativo" style="zoom:50%;" />
 
@@ -34,8 +34,7 @@ Antes de instalar, garanta que você tenha os seguintes programas no seu sistema
 ---
 
 ## Instalação
-
-Siga estes passos para rodar o projeto em seu computador:
+Embora haja o binário pronto para uso em releases, é possível que existem problemas ao executar. Caso isso ocorra, siga estes passos para rodar o projeto:
 
 1.  **Clone o repositório:**
     ```bash
@@ -83,6 +82,15 @@ Siga estes passos para rodar o projeto em seu computador:
 
 ---
 
-## Licença
+## Licenças e Agradecimentos
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+Este aplicativo utiliza as seguintes bibliotecas de terceiros:
+
+* **libvlc (VLC Media Player Engine):** O motor de reprodução de vídeo é fornecido pela biblioteca `libvlc` do projeto VideoLAN.
+    * **Licença:** GNU Lesser General Public License (LGPL) v2.1. Uma cópia da licença está incluída na pasta `LICENSES`.
+    * **Código-fonte:** O código-fonte do VLC pode ser encontrado no [site oficial do VideoLAN](https://www.videolan.org/vlc/download-sources.html).
+
+* **yt-dlp:** A busca e extração de links de vídeo é feita pela ferramenta `yt-dlp`.
+    * **Licença:** The Unlicense (Domínio Público).
